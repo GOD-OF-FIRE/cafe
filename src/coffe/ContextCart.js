@@ -11,7 +11,7 @@ const ContextCart = () => {
         <header>
           <div className="continue-shopping">
             🍥
-            <h3>CafeBakery Cakes</h3>
+            <h3>CafeStudioBakery</h3>
           </div>
 
           <div className="cart-icon">
@@ -46,7 +46,7 @@ const ContextCart = () => {
       </header>
 
       <section className="main-cart-section">
-        <h1>shopping Cart</h1>
+        <h1>CafeStudioBakery</h1>
         <p className="total-items">
           you have <span className="total-items-count">{totalItem} </span> items
           in shopping cart
